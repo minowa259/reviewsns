@@ -1,0 +1,10 @@
+config:
+  site:
+    hosturl: localhost
+    sitename: review SNS
+  detabase:
+    dbname: sns
+    host: 127.0.0.1
+    user: root
+    password:
+    port: 3306
